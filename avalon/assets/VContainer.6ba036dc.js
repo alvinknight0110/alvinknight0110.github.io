@@ -1,0 +1,1 @@
+import{m as t,u as n}from"./VGrid.af6d5a4c.js";import{l as r,m as s}from"./index.6382704c.js";const m=r()({name:"VContainer",props:{fluid:{type:Boolean,default:!1},...t()},setup(e,a){let{slots:o}=a;return n(()=>s(e.tag,{class:["v-container",{"v-container--fluid":e.fluid}]},o)),{}}});export{m as V};
